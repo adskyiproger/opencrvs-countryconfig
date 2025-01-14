@@ -1,0 +1,16 @@
+# crvs.service-point.in.ua:22 SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+crvs.service-point.in.ua ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCmdTkOYZ1aPXhw0KE1prywrkwa7lXvx3kUo/Fq7khHF3Fr2SGd3h1YViaoCqrAqLiVOM6YP+pWdpe5f+nacSyoxNtO6dBE/lKFrl83NhTIIOia5fQgEEOzy8VWueso1k57wlcfRpwXqMG61jP88/xqLUyANPYlDS+U2wu+O/RznNUMSOf5cj0Vaepp/N2fQRIua5Yd1xM2Zobs/TQ/YEsJpRBFBan6YBrdxxU7j585KTWQl7iVhfZ2mP4+0J494Af8XvaqaDCbEPK+ARa/LpMKu1l+3JEXAwEK7yco1t6N+9RnQ3AMaUt6qFDaIhqoTGXaRzpVKFxl4aWexzlMGfCPFZf8NXZLNVR+C2pmsJRUksa6DpkyYxrwi/benCyhNwtXXYzM3zwAemn0m3u55jiAWx2wc/OfO5fcUN9E3uZ74rCJd0MIJn+KGjr5DEEsI4M8NvTt6R0c4RbBIFvOYuiJMI94ngfDle7KwsEqYP4kcwYyXYyn7xZLy7En2S+FXJU=
+# crvs.service-point.in.ua:22 SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+crvs.service-point.in.ua ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBEDqd8kYAyxYUs2LKTmmqV52HjEjHpD+JN5JVDyDLeCTXtQYPmO5PAoqJEemiFq7J3A6RoDCJiA61OsaCVgwq/c=
+# crvs.service-point.in.ua:22 SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+crvs.service-point.in.ua ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJG6J3tqqWbuk8oIuhim/bPP0g3f2Zbcw5YQ+sftrvsB
+# crvs.service-point.in.ua:22 SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+# crvs.service-point.in.ua:22 SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+# 176.100.13.61:22 SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+176.100.13.61 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCmdTkOYZ1aPXhw0KE1prywrkwa7lXvx3kUo/Fq7khHF3Fr2SGd3h1YViaoCqrAqLiVOM6YP+pWdpe5f+nacSyoxNtO6dBE/lKFrl83NhTIIOia5fQgEEOzy8VWueso1k57wlcfRpwXqMG61jP88/xqLUyANPYlDS+U2wu+O/RznNUMSOf5cj0Vaepp/N2fQRIua5Yd1xM2Zobs/TQ/YEsJpRBFBan6YBrdxxU7j585KTWQl7iVhfZ2mP4+0J494Af8XvaqaDCbEPK+ARa/LpMKu1l+3JEXAwEK7yco1t6N+9RnQ3AMaUt6qFDaIhqoTGXaRzpVKFxl4aWexzlMGfCPFZf8NXZLNVR+C2pmsJRUksa6DpkyYxrwi/benCyhNwtXXYzM3zwAemn0m3u55jiAWx2wc/OfO5fcUN9E3uZ74rCJd0MIJn+KGjr5DEEsI4M8NvTt6R0c4RbBIFvOYuiJMI94ngfDle7KwsEqYP4kcwYyXYyn7xZLy7En2S+FXJU=
+# 176.100.13.61:22 SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+176.100.13.61 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBEDqd8kYAyxYUs2LKTmmqV52HjEjHpD+JN5JVDyDLeCTXtQYPmO5PAoqJEemiFq7J3A6RoDCJiA61OsaCVgwq/c=
+# 176.100.13.61:22 SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+176.100.13.61 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJG6J3tqqWbuk8oIuhim/bPP0g3f2Zbcw5YQ+sftrvsB
+# 176.100.13.61:22 SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+# 176.100.13.61:22 SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5

@@ -11,16 +11,16 @@ all:
     users:
       # @todo this is where you define which development team members have access to the server.
       # If you need to remove access from someone, do not remove them from this list, but instead set their state: absent
-      - name: my-user
+      - name: myuser
         ssh_keys:
-          - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABg...Z/rhU= user@example.com
+          - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDH0zUM1kXnZJPZuBS7h4bHLyeKCEYYqGND54gD/3mg2eHPH0dCvv0x61I5Jh6E+fX6DEAiFKSlaKAsGYn5g+rRrRyPYm0JgSHxm6+Ppuv5w/IAVoTMo5xiJWH+athU0u3OKUkPWbDCyqPG+a7eWzgtAiKkAGWdztbKjOMcL1c2G5Nw9zdeUOHBrEchJ4rjhAgchBRSO0xxZ0PRSUFSztQy30XwJIP4gp9nWaQKOSocNUIj9q3aEb2oBcYzVQR4akvpu+F/tRtqQpHX5cm/oOJOtJTRC0JyJdI3P8QcSFS0/hZFq1vVVf6XswWhca5hLd9LBa2F4ev8rDluhXoLT0tg05QnaaHxlwOz8T8KjN5/gabljoiurqKMITu24ekpqY1dbRRQB5VoUaRiRloUn6R9RI+46leTzRlt/aFUVYtLpuOp4XysuVmYHQgVmQGC/i0pzpuExVkxtvRdZO4sk/OYKRM5bxg7pWEnczFNge7dqBuNUHoZTYZ3GCIGjc7uwLs= vmudryi@NB01FIS016
         state: present
         sudoer: true
     enable_backups: false
 docker-manager-first:
   hosts:
     dev: # @todo set this to be the hostname of your target server
-      ansible_host: '44.44.44.44' # @todo set this to be the IP address of your server
+      ansible_host: '176.100.13.61' # @todo set this to be the IP address of your server
       data_label: data1 # for manager machines, this should always be "data1"
 
 # Development servers are not configured to use workers.
